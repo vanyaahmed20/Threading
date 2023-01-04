@@ -3,7 +3,7 @@ In this program we have created 4 threads input, reversed, capitalize and shift.
 
 # PROCESS OF CODE(EXPLANATION)
 
-#  The code will process in the following way:
+#  THE CODE WILL PROCESS IN THE FOLLOWING WAY:
   1.	Creating function of input thread “that would take the input of the string from the user”. We have defined that string variable as a global variable.
   2.	Creating reverse function. The reversed function would reverse the string that the user has given.
   3.	Creating capitalize function. The input string given by the user would be capitalized using upper () command. This would automatically convert the string in upper       case letters.

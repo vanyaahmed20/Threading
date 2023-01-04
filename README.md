@@ -1,4 +1,4 @@
-# Threading
+# THREADING
 In this program we have created 4 threads input, reversed, capitalize and shift.
 
 # PROCESS OF CODE(EXPLANATION)
